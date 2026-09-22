@@ -6,6 +6,13 @@ Personal career site for Sam Marino, an aviation professional and hardware troub
 
 The page is a static résumé companion. It includes only details Sam has provided: contact, three roles, education, licenses, and skills. When the résumé changes, edit `index.html` and keep new claims limited to what the résumé actually says.
 
+A few items are intentionally unfinished. Do not invent them:
+
+- The California Baptist University simulator role is listed as Present only. There is no start date yet.
+- The Commercial Aviation B.S. is marked expected (December 2025). Do not list it as completed until Sam confirms.
+- The breakaway-gate result is “substantial repair costs.” Do not add a dollar amount.
+- The radiotelephone credential stays “Radiotelephone Operator License” until Sam confirms the exact FCC title.
+
 ## Preview locally
 
 From this folder:
