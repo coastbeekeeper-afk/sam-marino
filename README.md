@@ -8,10 +8,11 @@ The page is a static résumé companion. It includes only details Sam has provid
 
 A few items are intentionally unfinished. Do not invent them:
 
-- The California Baptist University simulator role is listed as Present only. There is no start date yet.
+- The California Baptist University simulator role ended in December 2025. There is still no start date. Do not invent one.
 - The Commercial Aviation B.S. is marked expected (December 2025). Do not list it as completed until Sam confirms.
 - The breakaway-gate result is “substantial repair costs.” Do not add a dollar amount.
 - The radiotelephone credential stays “Radiotelephone Operator License” until Sam confirms the exact FCC title.
+- The FAA Instrument Rating is listed with no issue date. Do not invent one.
 
 ## Preview locally
 
