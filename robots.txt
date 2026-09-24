@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://coastbeekeeper-afk.github.io/sam-marino/sitemap.xml
+Sitemap: https://career.marinoaviation.com/sitemap.xml

@@ -2,7 +2,7 @@
 
 Personal career site for Sam Marino, an aviation professional and hardware troubleshooter seeking Flight Test or Mission Operations roles.
 
-**Live URL:** https://coastbeekeeper-afk.github.io/sam-marino/
+**Live URL:** https://career.marinoaviation.com/
 
 The page is a static résumé companion. It includes only details Sam has provided: contact, three roles, education, licenses, and skills. When the résumé changes, edit `index.html` and keep new claims limited to what the résumé actually says.
 
