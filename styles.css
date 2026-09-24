@@ -637,7 +637,8 @@ h2 {
 
 .contact-email,
 .contact-phone,
-.contact-linkedin {
+.contact-linkedin,
+.contact-resume {
   display: inline-block;
   color: var(--gold);
   text-decoration-thickness: 1px;
@@ -652,7 +653,8 @@ h2 {
 }
 
 .contact-phone,
-.contact-linkedin {
+.contact-linkedin,
+.contact-resume {
   display: block;
   margin-top: 0.45rem;
   font-weight: 500;
@@ -662,9 +664,11 @@ h2 {
 .contact-email:hover,
 .contact-phone:hover,
 .contact-linkedin:hover,
+.contact-resume:hover,
 .contact-email:focus-visible,
 .contact-phone:focus-visible,
-.contact-linkedin:focus-visible {
+.contact-linkedin:focus-visible,
+.contact-resume:focus-visible {
   color: #e7d7b8;
 }
 
@@ -823,6 +827,7 @@ h2 {
   .contact-email,
   .contact-phone,
   .contact-linkedin,
+  .contact-resume,
   h1,
   h2,
   h3,
