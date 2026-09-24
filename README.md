@@ -11,7 +11,7 @@ A few items are intentionally unfinished. Do not invent them:
 - The California Baptist University simulator role is August 2023 – December 2025.
 - The Commercial Aviation B.S. is marked expected (December 2026). Do not list it as completed until Sam confirms.
 - The breakaway gate cuts parts cost from $283 plus labor to under $3. Do not invent a labor dollar amount.
-- The radiotelephone credential stays “Radiotelephone Operator License” until Sam confirms the exact FCC title.
+- The radiotelephone credential is the FCC Restricted Radiotelephone Operator Permit. Do not invent an issue date.
 - The FAA Instrument Rating was issued May 2026. Do not add an end date.
 
 ## Preview locally
