@@ -1,6 +1,6 @@
 # Sam Marino
 
-Personal career site for Sam Marino, an aviation professional and hardware troubleshooter seeking Flight Test or Mission Operations roles.
+Personal career site for Sam Marino, an aviation professional and hardware troubleshooter seeking Flight Test / Mission Operations roles.
 
 **Live URL:** https://career.marinoaviation.com/
 
@@ -8,11 +8,16 @@ The page is a static résumé companion. It includes only details Sam has provid
 
 A few items are intentionally unfinished. Do not invent them:
 
+- The school and simulator employer name is California Baptist University. Do not shorten it to Cal Baptist or CBU.
 - The California Baptist University simulator role is August 2023 – December 2025.
 - The Commercial Aviation B.S. is marked expected (December 2026). Do not list it as completed until Sam confirms.
-- The breakaway gate cuts parts cost from $283 plus labor to under $3. Do not invent a labor dollar amount.
+- The breakaway gate cuts parts cost from $283 plus labor to under $3 (about $29,000–$44,000 per year in parts). Do not invent a labor dollar amount. Sam was the primary repair owner and originated the approach the team later built on.
+- Coast Bees live-removal work relocated/rescued over 7 million bees. Do not change that figure.
 - The radiotelephone credential is the FCC Restricted Radiotelephone Operator Permit. Do not invent an issue date.
 - The FAA Instrument Rating was issued May 2026. Do not add an end date.
+- The FAA Remote Pilot Certificate (Part 107) starts January 2025. Do not move that month.
+- The FAA First-Class Medical Certificate and Complex airplane endorsement have no issue dates on the résumé. Do not invent dates.
+- Public email is sam@marinoaviation.com only. Do not add other addresses.
 
 ## Preview locally
 
