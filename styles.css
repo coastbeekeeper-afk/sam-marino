@@ -636,7 +636,8 @@ h2 {
 }
 
 .contact-email,
-.contact-phone {
+.contact-phone,
+.contact-linkedin {
   display: inline-block;
   color: var(--gold);
   text-decoration-thickness: 1px;
@@ -650,7 +651,8 @@ h2 {
   overflow-wrap: anywhere;
 }
 
-.contact-phone {
+.contact-phone,
+.contact-linkedin {
   display: block;
   margin-top: 0.45rem;
   font-weight: 500;
@@ -659,8 +661,10 @@ h2 {
 
 .contact-email:hover,
 .contact-phone:hover,
+.contact-linkedin:hover,
 .contact-email:focus-visible,
-.contact-phone:focus-visible {
+.contact-phone:focus-visible,
+.contact-linkedin:focus-visible {
   color: #e7d7b8;
 }
 
@@ -818,6 +822,7 @@ h2 {
   .contact-lead,
   .contact-email,
   .contact-phone,
+  .contact-linkedin,
   h1,
   h2,
   h3,
