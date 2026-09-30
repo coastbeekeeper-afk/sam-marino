@@ -1,6 +1,6 @@
 # Sam Marino
 
-Personal career site for Sam Marino, an aviation professional and hardware troubleshooter seeking Flight Test / Mission Operations roles.
+Personal career site for Sam Marino, an aviation professional and hardware troubleshooter based in Costa Mesa, California. Open to relocate.
 
 **Live URL:** https://career.marinoaviation.com/
 
